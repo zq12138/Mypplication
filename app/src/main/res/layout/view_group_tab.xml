@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/redbag_tab"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            app:tabIndicatorColor="#2EA7E0"
+            app:tabSelectedTextColor="@color/home_blue"
+            app:tabTextAppearance="@style/MyTabLayoutTextAppearance"
+            app:tabTextColor="@color/black_txt"></android.support.design.widget.TabLayout>
+
+
+    </RelativeLayout>
+
+    <com.example.admin.mypplication.MyViewPager
+        android:id="@+id/redbag_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/gray"></com.example.admin.mypplication.MyViewPager>
+
+</LinearLayout>

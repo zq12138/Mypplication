@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--     <string-array name="invest_popup_item">
+            <item>债权转让</item>
+            <item>按金额排序</item>
+            <item>按年利率排序</item>
+        </string-array>
+
+        <string-array name="greditor_popup_item">
+            <item>投资列表</item>
+            <item>按金额排序</item>
+            <item>按年利率排序</item>
+        </string-array> -->
+    <string-array name="invest_popup_item">
+        <item>默认排序</item>
+        <item>按借款金额排序</item>
+        <item>按预期年化收益排序</item>
+        <item>按借款期限排序</item>
+    </string-array>
+
+    <string-array name="greditor_popup_item">
+        <item>默认排序</item>
+        <item>按转让价格排序</item>
+        <item>按原始年化排序</item>
+        <item>按剩余期限排序</item>
+    </string-array>
+
+    <!--投资详情界面：选择红包-排序popup-->
+    <string-array name="redsort_popup_item">
+        <item>默认排序</item>
+        <item>按红包金额排序</item>
+        <item>按失效时间排序</item>
+    </string-array>
+
+    <!--年化收益-->
+    <string-array name="annual_income_popup_item">
+        <item>8%以下</item>
+        <item>8%~12%</item>
+        <item>12%~15%</item>
+    </string-array>
+    <!--我的红包-->
+    <string-array name="red_package_tab_item">
+        <item>未使用</item>
+        <item>已使用</item>
+        <item>未使用</item>
+        <item>已使用</item>
+    </string-array>
+</resources>

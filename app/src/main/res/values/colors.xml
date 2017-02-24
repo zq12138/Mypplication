@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 橙色 -->
+    <color name="color_orange">#FD9426</color>
+    <!-- 深蓝 -->
+    <color name="dark_blue">#2c9ed5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue_main">#2ea7e0</color>
+    <color name="re_low">#FFF6D8</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="red_dot">#e62828</color>
+    <color name="deep_red">#C04824</color>
+    <color name="blue">#2cb5c8</color>
+    <color name="home_blue">#2EA7E0</color>
+    <color name="text_blue">#2DA6DF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="yellow_text">#FC9930</color>
+    <color name="gray">#E3E4E8</color>
+    <color name="graya">#53b8e7</color>
+
+    <!-- 取消邀请好友的背景色 -->
+    <color name="gray1">#EBEBEB</color>
+    <color name="grays">#BABABA</color>
+    <color name="gray_txt">#999999</color>
+    <color name="waiting">#c5c5c5</color>
+    <color name="gray_txt_Deep">#AAAAAA</color>
+    <color name="light_gray">#929292</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#66666666</color>
+    <color name="black_txt">#3a3a3a</color>
+    <color name="black_txt1">#3f3a39</color>
+    <color name="blue_txt">#076fd0</color>
+    <color name="blue_alert_txt">#42AFE3</color>
+    <color name="orange_txt">#ff8c00</color>
+    <color name="red_txt">#E85427</color>
+    <color name="red_bg">#990000</color>
+    <color name="green">#85B000</color>
+    <!-- 灰色的线 -->
+    <color name="more_line">#DBDBDB</color>
+    <color name="more_line1">#C8C8C8</color>
+    <!-- 系统消息 -->
+    <color name="green_msg">#7CAA52</color>
+    <color name="orange_dialog_txt">#FE5B0E</color>
+    <!-- 左边标题颜色 -->
+    <color name="text_left_color">#888888</color>
+    <!-- 右边内容颜色 -->
+    <color name="text_right_color">#000000</color>
+    <!-- 浅黄色 -->
+    <color name="yellow_bg">#fdf9c5</color>
+    <!-- 顶部标题颜色 -->
+    <color name="top_title_color">#ff6600</color>
+
+    <!-- popupwindow背景色 -->
+    <color name="popup_background">#77000000</color>
+    <!-- 分割线颜色 -->
+    <color name="line_grey">#D5D5D5</color>
+
+    <!-- 大写字母标题 -->
+    <color name="letters_title">#9c9c9c</color>
+    <!-- 半透明 -->
+    <color name="transparent_background">#50000000</color>
+    <!--  -->
+    <color name="error_text">#E85427</color>
+    <!-- 紫色 -->
+    <color name="purple">#8079a2</color>
+    <color name="green_text">#69821C</color>
+
+    <!-- 选中的背景色，浅橙色 -->
+    <color name="light_orange">#fcf3e6</color>
+
+    <!-- 提醒按钮文字，亮灰色 -->
+    <color name="light_grey">#bbbbbb</color>
+
+    <!-- 欢迎页下面圆点的颜色 -->
+    <color name="gray_circle_color">#cacaca</color>
+    <color name="orange_circle_color">#f6874b</color>
+    <!-- 左边菜单背景色 -->
+    <color name="menu_bg_color">#2c2c2c</color>
+    <!-- radioGroup的背景色 -->
+    <color name="rg_bg_color">#DEDDEB</color>
+    <color name="camero_bg">#60656f</color>
+    <color name="text_bg">#edecec</color>
+    <!-- 湛蓝色 -->
+    <color name="zhanlan">#6FB6C8</color>
+    <!-- 常用的label描述性文字颜色 -->
+    <color name="my_kichen_text">#616161</color>
+    <!-- 抽奖 -->
+    <color name="lottery_orange_color">#FF5400</color>
+    <color name="lottery_gray_color">#383B3E</color>
+    <!-- list间隔填充“透明” -->
+    <color name="lucency">#00000000</color>
+    <!-- 所有页面背景 -->
+    <color name="all_bg">#f0f0f0</color>
+    <color name="home_page_red">#d60212</color>
+    <color name="smsbg">#F7F7F7</color>
+    <!-- 深灰 -->
+    <color name="darkgray">#9d9d9d</color>
+
+    <!-- 头部红色 -->
+    <color name="title_relows">#FFFDDF</color>
+    <color name="title_red">#CF1C20</color>
+
+    <!-- 头部蓝色 -->
+    <color name="title_blue">#2EA7E0</color>
+    <!-- 头部白色 -->
+    <color name="title_white">#ffffff</color>
+    <!-- 浅色灰色字体 -->
+    <color name="text_light_grey">#cccccc</color>
+    <!-- 定义黄 -->
+    <color name="my_yelow">#ffffff</color>
+    <!-- 橘黄 -->
+    <color name="juhuang">#FF9300</color>
+    <!-- 橘黄 2 -->
+    <color name="juhuang2">#FF9600</color>
+    <!-- 棕黑 -->
+    <color name="my_black">#897C6B</color>
+    <!-- 分割线颜色 -->
+    <color name="my_seg">#D3C3AC</color>
+    <!-- 深棕 -->
+    <color name="my_szong">#918372</color>
+    <!-- 手势识别背景 -->
+    <!-- <color name="my_handbg">#4FA6C3</color>  @master -->
+    <color name="my_handbg">#2ea7e0</color>
+    <color name="shous_char">#FFF4DC</color>
+    <color name="pro_ti_bg">#807464</color>
+    <color name="pro_ti_bg2">#D2C2AB</color>
+    <color name="color_progress_bg">#4FA6C3</color>
+    <color name="blue_one">#2EA7E0</color>
+    <color name="devide_line">#CBCED2</color>
+    <color name="whites">#ffffff</color>
+    <color name="gray_font">#818181</color>
+    <color name="common_title">#F9F9F9</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="gold">#000000</color>
+    <color name="refresh_head_bg">#2B2B2B</color>
+    <color name="backColor">#2000</color>
+    <color name="detail_bgColor">#f5f5f5</color>
+    <color name="color_pray">#9d9d9d</color>
+    <color name="defaultTextColor">#666</color>
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="orange">#ff9900</color>
+    <color name="deepcolor">#faaa5f</color>
+    <color name="shadowcolor">#333333</color>
+    <color name="naming">#ABABAB</color>
+    <color name="background">#272727</color>
+    <color name="orange_yellow">#9b9ba0</color>
+
+    <drawable name="semi_black">#80000000</drawable>
+
+    <color name="remote_connect_text">#FFe78018</color>
+    <color name="remote_disconnect_text">#FF901821</color>
+    <color name="investinfo_color">#443930</color>
+    <color name="canlendar_text_color">#323232</color>
+    <color name="residue_money_color">#E1D490</color>
+    <!-- 借款人基本资料 -->
+    <color name="borrower_title_color">#3f3a39</color>
+    <color name="borrower_devider_color">#e8e8e8</color>
+
+</resources>
